@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repository'i açtım.
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Markdown
 ## h2 Hello
@@ -40,5 +40,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repository'i açtım.
 
 [Youtube](https://www.youtube.com/)
 
-![Logo]
-(https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg)
+![Logo](https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.png)
+
+## Alıntı yapmak için:
+> "Başarı, genellikle bir adım öteye devam edenlerin elde ettiği bir şeydir."
+— Dale Carnegie
