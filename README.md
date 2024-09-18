@@ -2,5 +2,8 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repository'i açtım.
 
 # Markdown
-## Hello
-### h3
+## h2 Hello
+### h3 Merhaba
+
+** Bold yazılar için
+* Eğik yazılar için 
