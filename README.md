@@ -38,7 +38,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repository'i açtım.
 |Fatma|Yegin|Yazılımcı|
 |Murat|Yegin|İstatistikçi|
 
-[Youtube](youtube.com)
+[Youtube](https://www.youtube.com/)
 
 ![Logo]
 (https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg)
